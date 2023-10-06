@@ -1,8 +1,8 @@
-# DTO com Node e Zod
+# Como trabalhar com Logs
 
-Primeiramente, se você não chegou até aqui através do meu canal, corre lá agora que eu vou te ensinar a como usar DTO com Node e Zod
+Primeiramente, se você não chegou até aqui através do meu canal, corre lá agora que eu vou te ensinar a como usar Logs com Node + GCP
 
-[![DTO com Node e Zod](https://img.youtube.com/vi/oTymIRYH-sM/0.jpg)](https://www.youtube.com/watch?v=oTymIRYH-sM&t=3s)
+[![Logs com Node](https://img.youtube.com/vi/BSqQHLerLKo/0.jpg)](https://www.youtube.com/watch?v=BSqQHLerLKo)
 
 > A partir daqui vou considerar que você já viu o vídeo.
 
@@ -13,7 +13,7 @@ Essa projeto foi criado com o intuito de mostrar como usar DTO junto com Zod.
 ## Tecnologias utilizadas
 
 - [Node](https://nodejs.org/en)
-- [Zod](https://zod.dev/)
+- [Winston](https://www.npmjs.com/package/winston#profiling)
 - [Typescript](https://www.typescriptlang.org/)
 
 
